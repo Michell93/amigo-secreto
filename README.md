@@ -21,4 +21,4 @@ Para abrir e rodar o projeto, utilize um editor de código de sua escolha.
 Depois, abra o projeto no seu navegador.
 
 ## VERCEL 
-
+https://amigo-secreto-two-ashen.vercel.app/
